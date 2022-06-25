@@ -1,0 +1,16 @@
+<dependencies>
+  <depender>
+    <id>memfault-firmware-sdk</id>
+    <versions>
+      <version>
+        <commit>0.31.0</commit>
+        <dependees>
+          <dependee>
+            <id>wifi-connection-manager</id>
+            <commit>latest-v2.X</commit>
+          </dependee>
+        </dependees>
+      </version>
+    </versions>
+  </depender>
+</dependencies>
