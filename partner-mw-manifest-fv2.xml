@@ -1,16 +1,16 @@
 <middleware>
     <middleware>
-        <name>Memfault Firmware SDK</name>
-        <id>memfault-firmware-sdk</id>
-        <uri>https://github.com/memfault/memfault-firmware-sdk</uri>
-        <desc>Memfault is the first cloud-based observability platform for connected devices.</desc>
+        <name>Partner Middleware SDK</name>
+        <id>partner-middleware-sdk</id>
+        <uri>https://github.com/partner/partner-middleware-sdk</uri>
+        <desc>This SDK is used for ABC and XYZ on PSoC6 devices.</desc>
         <category>Middleware</category>
         <req_capabilities>cat1</req_capabilities>
         <versions>
         <version flow_version="1.0,2.0">
-            <num>0.31.0</num>
-            <commit>0.31.0</commit>
-            <desc>0.31.0</desc>
+            <num>1.0.0 release</num>
+            <commit>release-v1.0.0</commit>
+            <desc>release-v1.0.0</desc>
         </version>
         </versions>
     </middleware>
